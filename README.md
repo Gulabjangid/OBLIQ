@@ -376,41 +376,4 @@ python Genarateata.py
 ```
 
 This overwrites `data.json`. Restart the backend or call `load_data(force_reload=True)` after changing the file so the in-memory cache is refreshed.
-
-## Prototype Limitations
-
-This project intentionally leaves several production concerns out of scope:
-
-- `data.json` is not a real database.
-- The in-memory cache is local to one backend process.
-- There is no user authentication or authorization.
-- Gemini availability and API credentials are required for live agent checks.
-- The frontend dispatch action is only a visual simulation.
-- No SMTP provider, email queue, delivery tracking, or retry system exists.
-- CORS is open for local prototyping and must be restricted before deployment.
-- The generated mock data is not authoritative compliance data.
-
-## Suggested Production Evolution
-
-A production version would typically add:
-
-1. A database with migrations and transaction support.
-2. Authentication, roles, tenant isolation, and audit logging.
-3. A background job queue for reminders and retries.
-4. An approved email provider with delivery status tracking.
-5. Server-side validation of every model decision and tool result.
-6. Observability for request IDs, latency, errors, and model usage.
-7. Automated tests for tools, routes, orchestration, and frontend workflows.
-8. Restricted CORS and secret management through the deployment platform.
-
-## Summary for New Contributors
-
-The quickest way to understand the project is:
-
-1. Read `main.py` to see the HTTP boundary.
-2. Read `agent.py` to see the Gemini tool-calling loop.
-3. Read `tools.py` to see the business checks and data validation.
-4. Inspect `data.json` to understand the mock facts available to the agent.
-5. Read `Frontend/src/app/page.tsx` to see how the audit workflow is presented.
-
-The core design principle is simple: the agent may coordinate actions, but factual compliance information must come from the validated local tools.
+ simple: the agent may coordinate actions, but factual compliance information must come from the validated local tools.
