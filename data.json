@@ -1,0 +1,2410 @@
+{
+  "clients": [
+    {
+      "id": "101",
+      "name": "Omega Cloud Technologies",
+      "contact_person": "Rahul Singh",
+      "email": "rahul@omega.in",
+      "phone": "+91 9341271701",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b929.9 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "Form 16A Vendor Summary",
+        "Sales Invoice Register"
+      ]
+    },
+    {
+      "id": "102",
+      "name": "Quantum Enterprises",
+      "contact_person": "Suresh Patel",
+      "email": "suresh@quantum.in",
+      "phone": "+91 9259655592",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b950.1 Cr",
+      "required_documents": [
+        "Cash Expense Vouchers",
+        "Form 16A Vendor Summary",
+        "Q1 TDS Challan 281",
+        "Professional Tax Challans",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Stellar Enterprises",
+      "contact_person": "Kiran Nair",
+      "email": "kiran@stellar.in",
+      "phone": "+91 9630293422",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b930.3 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "GSTR-2B Reconciliation",
+        "Q1 TDS Challan 281"
+      ]
+    },
+    {
+      "id": "104",
+      "name": "Stellar Enterprises",
+      "contact_person": "Rahul Reddy",
+      "email": "rahul@stellar.in",
+      "phone": "+91 9800252809",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b934 Lakhs",
+      "required_documents": [
+        "Form 16A Vendor Summary",
+        "July 2026 Bank Statement",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "105",
+      "name": "Quantum Enterprises",
+      "contact_person": "Priya Reddy",
+      "email": "priya@quantum.in",
+      "phone": "+91 9893297403",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b953.6 Cr",
+      "required_documents": [
+        "Sales Invoice Register",
+        "Cash Expense Vouchers",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "106",
+      "name": "Nova Industries",
+      "contact_person": "Anita Sharma",
+      "email": "anita@nova.in",
+      "phone": "+91 9207450547",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b99.6 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "July 2026 Bank Statement",
+        "Form 16A Vendor Summary",
+        "Professional Tax Challans",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "107",
+      "name": "BlueShift Retail",
+      "contact_person": "Anita Patel",
+      "email": "anita@blueshift.in",
+      "phone": "+91 9289826656",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b954.4 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Cash Expense Vouchers",
+        "Sales Invoice Register",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "108",
+      "name": "Nexus Consulting",
+      "contact_person": "Neha Singh",
+      "email": "neha@nexus.in",
+      "phone": "+91 9655196588",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b939 Lakhs",
+      "required_documents": [
+        "Cash Expense Vouchers",
+        "Director KYC Form DIR-3",
+        "Sales Invoice Register",
+        "Q1 TDS Challan 281"
+      ]
+    },
+    {
+      "id": "109",
+      "name": "Zenith Consulting",
+      "contact_person": "Anita Mehta",
+      "email": "anita@zenith.in",
+      "phone": "+91 9920890348",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b942 Lakhs",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Form 16A Vendor Summary",
+        "Professional Tax Challans",
+        "Q1 TDS Challan 281",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "110",
+      "name": "BlueShift Logistics",
+      "contact_person": "Vikram Singh",
+      "email": "vikram@blueshift.in",
+      "phone": "+91 9868503089",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b924.6 Cr",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3",
+        "Sales Invoice Register",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "111",
+      "name": "Prime Cloud Technologies",
+      "contact_person": "Rahul Patel",
+      "email": "rahul@prime.in",
+      "phone": "+91 9666390023",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b943.3 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "112",
+      "name": "Nova Enterprises",
+      "contact_person": "Neha Nair",
+      "email": "neha@nova.in",
+      "phone": "+91 9364425770",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b930 Lakhs",
+      "required_documents": [
+        "Sales Invoice Register",
+        "GSTR-2B Reconciliation",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "113",
+      "name": "Apex Exports",
+      "contact_person": "Sameer Sharma",
+      "email": "sameer@apex.in",
+      "phone": "+91 9889217009",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b940 Lakhs",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "GSTR-2B Reconciliation",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "114",
+      "name": "BlueShift Logistics",
+      "contact_person": "Neha Sharma",
+      "email": "neha@blueshift.in",
+      "phone": "+91 9947304936",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b949 Lakhs",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Q1 TDS Challan 281",
+        "Cash Expense Vouchers",
+        "GSTR-2B Reconciliation",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "115",
+      "name": "Prime Exports",
+      "contact_person": "Rahul Desai",
+      "email": "rahul@prime.in",
+      "phone": "+91 9307290044",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b910 Lakhs",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Form 16A Vendor Summary",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "116",
+      "name": "Apex Industries",
+      "contact_person": "Amit Gupta",
+      "email": "amit@apex.in",
+      "phone": "+91 9284919984",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b962 Lakhs",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "Q1 TDS Challan 281",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "117",
+      "name": "Stellar Cloud Technologies",
+      "contact_person": "Neha Verma",
+      "email": "neha@stellar.in",
+      "phone": "+91 9957235446",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b978.0 Cr",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "Form 16A Vendor Summary",
+        "July 2026 Bank Statement",
+        "Sales Invoice Register"
+      ]
+    },
+    {
+      "id": "118",
+      "name": "Nexus Exports",
+      "contact_person": "Sameer Desai",
+      "email": "sameer@nexus.in",
+      "phone": "+91 9397559686",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b963.0 Cr",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "GSTR-2B Reconciliation",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "119",
+      "name": "Omega Enterprises",
+      "contact_person": "Kiran Mehta",
+      "email": "kiran@omega.in",
+      "phone": "+91 9186076415",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b962 Lakhs",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "GSTR-2B Reconciliation",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "120",
+      "name": "Stellar Consulting",
+      "contact_person": "Suresh Mehta",
+      "email": "suresh@stellar.in",
+      "phone": "+91 9812947471",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b950.7 Cr",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "Director KYC Form DIR-3",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "121",
+      "name": "Quantum Healthcare",
+      "contact_person": "Suresh Sharma",
+      "email": "suresh@quantum.in",
+      "phone": "+91 9594179798",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b920.5 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Professional Tax Challans",
+        "Sales Invoice Register"
+      ]
+    },
+    {
+      "id": "122",
+      "name": "Apex Industries",
+      "contact_person": "Sameer Joshi",
+      "email": "sameer@apex.in",
+      "phone": "+91 9917560966",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b955.9 Cr",
+      "required_documents": [
+        "Form 16A Vendor Summary",
+        "Sales Invoice Register",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "123",
+      "name": "Nova Retail",
+      "contact_person": "Neha Sharma",
+      "email": "neha@nova.in",
+      "phone": "+91 9777108614",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b965.5 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Professional Tax Challans",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "124",
+      "name": "Vertex Consulting",
+      "contact_person": "Amit Desai",
+      "email": "amit@vertex.in",
+      "phone": "+91 9442939580",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b938.1 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "Form 16A Vendor Summary",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "125",
+      "name": "BlueShift Healthcare",
+      "contact_person": "Kiran Patel",
+      "email": "kiran@blueshift.in",
+      "phone": "+91 9511113200",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b923.3 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "July 2026 Bank Statement",
+        "Q1 TDS Challan 281",
+        "Director KYC Form DIR-3",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "126",
+      "name": "Zenith Cloud Technologies",
+      "contact_person": "Priya Mehta",
+      "email": "priya@zenith.in",
+      "phone": "+91 9480477099",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b961.1 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Professional Tax Challans",
+        "Q1 TDS Challan 281",
+        "Cash Expense Vouchers",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "127",
+      "name": "Nexus FinTech",
+      "contact_person": "Amit Singh",
+      "email": "amit@nexus.in",
+      "phone": "+91 9727792915",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b955 Lakhs",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "Form 16A Vendor Summary",
+        "Cash Expense Vouchers",
+        "Sales Invoice Register",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "128",
+      "name": "Vertex Retail",
+      "contact_person": "Priya Verma",
+      "email": "priya@vertex.in",
+      "phone": "+91 9805355030",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b917.7 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "Sales Invoice Register",
+        "GSTR-2B Reconciliation",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "129",
+      "name": "Zenith Industries",
+      "contact_person": "Anita Joshi",
+      "email": "anita@zenith.in",
+      "phone": "+91 9179764056",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b941.9 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Sales Invoice Register",
+        "Professional Tax Challans"
+      ]
+    },
+    {
+      "id": "130",
+      "name": "BlueShift Enterprises",
+      "contact_person": "Pooja Gupta",
+      "email": "pooja@blueshift.in",
+      "phone": "+91 9782906975",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b989.3 Cr",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "Professional Tax Challans",
+        "Form 16A Vendor Summary",
+        "Sales Invoice Register",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "131",
+      "name": "Nova Retail",
+      "contact_person": "Pooja Singh",
+      "email": "pooja@nova.in",
+      "phone": "+91 9994959623",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b938.2 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3",
+        "Sales Invoice Register",
+        "Cash Expense Vouchers",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "132",
+      "name": "Nexus Solutions",
+      "contact_person": "Neha Patel",
+      "email": "neha@nexus.in",
+      "phone": "+91 9179786490",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b930.0 Cr",
+      "required_documents": [
+        "Form 16A Vendor Summary",
+        "Sales Invoice Register",
+        "Professional Tax Challans",
+        "July 2026 Bank Statement"
+      ]
+    },
+    {
+      "id": "133",
+      "name": "Apex FinTech",
+      "contact_person": "Rahul Desai",
+      "email": "rahul@apex.in",
+      "phone": "+91 9299300461",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b951.2 Cr",
+      "required_documents": [
+        "Sales Invoice Register",
+        "July 2026 Bank Statement",
+        "GSTR-2B Reconciliation",
+        "Director KYC Form DIR-3",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "134",
+      "name": "Apex Solutions",
+      "contact_person": "Suresh Desai",
+      "email": "suresh@apex.in",
+      "phone": "+91 9290158151",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b926.1 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3",
+        "Professional Tax Challans"
+      ]
+    },
+    {
+      "id": "135",
+      "name": "Stellar Healthcare",
+      "contact_person": "Sameer Gupta",
+      "email": "sameer@stellar.in",
+      "phone": "+91 9919670431",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b939.6 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement",
+        "Q1 TDS Challan 281",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "136",
+      "name": "Nova Logistics",
+      "contact_person": "Neha Sharma",
+      "email": "neha@nova.in",
+      "phone": "+91 9605990041",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b911 Lakhs",
+      "required_documents": [
+        "Cash Expense Vouchers",
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "137",
+      "name": "Vertex Cloud Technologies",
+      "contact_person": "Kiran Verma",
+      "email": "kiran@vertex.in",
+      "phone": "+91 9431403435",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b983.5 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Director KYC Form DIR-3",
+        "Professional Tax Challans",
+        "Sales Invoice Register"
+      ]
+    },
+    {
+      "id": "138",
+      "name": "Omega Retail",
+      "contact_person": "Kiran Singh",
+      "email": "kiran@omega.in",
+      "phone": "+91 9587552187",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b933.5 Cr",
+      "required_documents": [
+        "Form 16A Vendor Summary",
+        "GSTR-2B Reconciliation",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "139",
+      "name": "Stellar Exports",
+      "contact_person": "Neha Joshi",
+      "email": "neha@stellar.in",
+      "phone": "+91 9387802746",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b972.7 Cr",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "Professional Tax Challans",
+        "Cash Expense Vouchers",
+        "July 2026 Bank Statement",
+        "Q1 TDS Challan 281"
+      ]
+    },
+    {
+      "id": "140",
+      "name": "Nova Solutions",
+      "contact_person": "Priya Mehta",
+      "email": "priya@nova.in",
+      "phone": "+91 9827534988",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b910.9 Cr",
+      "required_documents": [
+        "Professional Tax Challans",
+        "Sales Invoice Register",
+        "Form 16A Vendor Summary",
+        "Q1 TDS Challan 281"
+      ]
+    },
+    {
+      "id": "141",
+      "name": "Nova Cloud Technologies",
+      "contact_person": "Amit Patel",
+      "email": "amit@nova.in",
+      "phone": "+91 9630741008",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b936.5 Cr",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Sales Invoice Register",
+        "Professional Tax Challans",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "142",
+      "name": "Stellar Solutions",
+      "contact_person": "Pooja Sharma",
+      "email": "pooja@stellar.in",
+      "phone": "+91 9269402464",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b933.0 Cr",
+      "required_documents": [
+        "Sales Invoice Register",
+        "Form 16A Vendor Summary",
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "143",
+      "name": "Prime Retail",
+      "contact_person": "Rahul Singh",
+      "email": "rahul@prime.in",
+      "phone": "+91 9879088307",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b982.0 Cr",
+      "required_documents": [
+        "Cash Expense Vouchers",
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Professional Tax Challans",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "144",
+      "name": "Nexus Cloud Technologies",
+      "contact_person": "Suresh Verma",
+      "email": "suresh@nexus.in",
+      "phone": "+91 9372360013",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b932.0 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Professional Tax Challans",
+        "Cash Expense Vouchers",
+        "Director KYC Form DIR-3"
+      ]
+    },
+    {
+      "id": "145",
+      "name": "Quantum Healthcare",
+      "contact_person": "Priya Joshi",
+      "email": "priya@quantum.in",
+      "phone": "+91 9507970546",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b941.0 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Sales Invoice Register",
+        "Director KYC Form DIR-3",
+        "Form 16A Vendor Summary"
+      ]
+    },
+    {
+      "id": "146",
+      "name": "Nova Industries",
+      "contact_person": "Vikram Joshi",
+      "email": "vikram@nova.in",
+      "phone": "+91 9700954458",
+      "entity_type": "LLP",
+      "annual_turnover": "\u20b953.5 Cr",
+      "required_documents": [
+        "GSTR-2B Reconciliation",
+        "Form 16A Vendor Summary",
+        "July 2026 Bank Statement",
+        "Q1 TDS Challan 281",
+        "Professional Tax Challans"
+      ]
+    },
+    {
+      "id": "147",
+      "name": "Nexus Exports",
+      "contact_person": "Rahul Nair",
+      "email": "rahul@nexus.in",
+      "phone": "+91 9699674413",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b922.2 Cr",
+      "required_documents": [
+        "Director KYC Form DIR-3",
+        "Form 16A Vendor Summary",
+        "Q1 TDS Challan 281",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "148",
+      "name": "Vertex Exports",
+      "contact_person": "Kiran Sharma",
+      "email": "kiran@vertex.in",
+      "phone": "+91 9130961543",
+      "entity_type": "Proprietorship",
+      "annual_turnover": "\u20b944 Lakhs",
+      "required_documents": [
+        "Q1 TDS Challan 281",
+        "July 2026 Bank Statement",
+        "Cash Expense Vouchers",
+        "GSTR-2B Reconciliation"
+      ]
+    },
+    {
+      "id": "149",
+      "name": "Nova Exports",
+      "contact_person": "Pooja Patel",
+      "email": "pooja@nova.in",
+      "phone": "+91 9570973177",
+      "entity_type": "Private Limited",
+      "annual_turnover": "\u20b947.6 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Director KYC Form DIR-3",
+        "Sales Invoice Register",
+        "Cash Expense Vouchers"
+      ]
+    },
+    {
+      "id": "150",
+      "name": "Nova Industries",
+      "contact_person": "Sameer Desai",
+      "email": "sameer@nova.in",
+      "phone": "+91 9832402829",
+      "entity_type": "Partnership Firm",
+      "annual_turnover": "\u20b976.4 Cr",
+      "required_documents": [
+        "July 2026 Bank Statement",
+        "Form 16A Vendor Summary",
+        "Cash Expense Vouchers"
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "client_id": "101",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "101",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "101",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "102",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "missing",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "102",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "102",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "102",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "102",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "103",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "103",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "103",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "104",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "104",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "104",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "105",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "105",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "105",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "106",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "106",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "106",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "106",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "106",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "107",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "107",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "107",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "107",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "108",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "108",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "108",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "108",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "109",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "109",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "109",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "109",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "109",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "missing",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "110",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "110",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "110",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "missing",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "110",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "110",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "111",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "111",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "111",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "112",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "112",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "112",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "113",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "113",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "113",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "114",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "114",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "114",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "114",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "114",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "115",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "115",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "115",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "115",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "116",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "116",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "116",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "117",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "117",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "117",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "117",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "118",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "118",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "118",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "119",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "119",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "119",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "119",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "119",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "120",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "120",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "missing",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "120",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "120",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "121",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "121",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "121",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "122",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "122",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "122",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "123",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "123",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "123",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "124",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "124",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "124",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "missing",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "125",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "125",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "125",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "125",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "125",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "126",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "126",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "126",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "126",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "126",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "127",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "127",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "127",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "127",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "127",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "128",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "128",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "128",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "128",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "128",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "129",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "129",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "129",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "130",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "130",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "130",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "130",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "130",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "131",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "131",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "131",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "131",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "missing",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "131",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "132",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "132",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "132",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "132",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "133",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "133",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "133",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "133",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "133",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "134",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "134",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "missing",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "134",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "135",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "135",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "135",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "135",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "135",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "136",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "136",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "136",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "136",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "136",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "137",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "137",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "missing",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "137",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "137",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "138",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "138",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "138",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "139",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "139",
+      "doc_name": "Professional Tax Challans",
+      "status": "missing",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "139",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "139",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "139",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "140",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "140",
+      "doc_name": "Sales Invoice Register",
+      "status": "missing",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "140",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "140",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "141",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "141",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "141",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "141",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "141",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "142",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "142",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "142",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "142",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "143",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "143",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "missing",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "143",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "143",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "143",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "144",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "144",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "144",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "144",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "145",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "145",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "145",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "145",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "uploaded",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "146",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "146",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "146",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "146",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "146",
+      "doc_name": "Professional Tax Challans",
+      "status": "uploaded",
+      "due_date": "2026-08-10"
+    },
+    {
+      "client_id": "147",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "missing",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "147",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "147",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "147",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "missing",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "148",
+      "doc_name": "Q1 TDS Challan 281",
+      "status": "uploaded",
+      "due_date": "2026-07-31"
+    },
+    {
+      "client_id": "148",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "uploaded",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "148",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "148",
+      "doc_name": "GSTR-2B Reconciliation",
+      "status": "uploaded",
+      "due_date": "2026-08-22"
+    },
+    {
+      "client_id": "149",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "149",
+      "doc_name": "Director KYC Form DIR-3",
+      "status": "uploaded",
+      "due_date": "2026-08-24"
+    },
+    {
+      "client_id": "149",
+      "doc_name": "Sales Invoice Register",
+      "status": "uploaded",
+      "due_date": "2026-08-15"
+    },
+    {
+      "client_id": "149",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    },
+    {
+      "client_id": "150",
+      "doc_name": "July 2026 Bank Statement",
+      "status": "missing",
+      "due_date": "2026-08-20"
+    },
+    {
+      "client_id": "150",
+      "doc_name": "Form 16A Vendor Summary",
+      "status": "missing",
+      "due_date": "2026-08-12"
+    },
+    {
+      "client_id": "150",
+      "doc_name": "Cash Expense Vouchers",
+      "status": "uploaded",
+      "due_date": "2026-08-14"
+    }
+  ],
+  "deadlines": [
+    {
+      "client_id": "101",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "102",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "103",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "104",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "104",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "105",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "106",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "107",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "108",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "109",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "110",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "110",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "111",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "112",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "113",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "113",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "114",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "114",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "115",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "115",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "116",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "117",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "118",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "118",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "119",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "120",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "121",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "121",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "122",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "122",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "123",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "124",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "125",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "125",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "126",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "126",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "127",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "128",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "129",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "130",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "130",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "131",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "132",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "132",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "133",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "133",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "134",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "134",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "135",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "136",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "137",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "137",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "138",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "138",
+      "event": "GSTR-3B Monthly Filing",
+      "date": "2026-08-20",
+      "criticality": "High"
+    },
+    {
+      "client_id": "139",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "139",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "140",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "141",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "141",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "142",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "142",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "143",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "144",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "145",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "145",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "146",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "147",
+      "event": "Income Tax Return (ITR)",
+      "date": "2026-10-31",
+      "criticality": "High"
+    },
+    {
+      "client_id": "147",
+      "event": "Advance Tax Installment (Q2)",
+      "date": "2026-09-15",
+      "criticality": "High"
+    },
+    {
+      "client_id": "148",
+      "event": "TDS Deposit (July)",
+      "date": "2026-08-07",
+      "criticality": "Medium"
+    },
+    {
+      "client_id": "148",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "149",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    },
+    {
+      "client_id": "150",
+      "event": "ROC DIR-3 KYC",
+      "date": "2026-08-30",
+      "criticality": "Urgent"
+    },
+    {
+      "client_id": "150",
+      "event": "Tax Audit Report (Form 3CD)",
+      "date": "2026-09-30",
+      "criticality": "High"
+    }
+  ]
+}

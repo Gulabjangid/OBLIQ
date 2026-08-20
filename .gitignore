@@ -1,0 +1,58 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Markdown and generated project notes
+*.md
+!/README.md
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node.js and Next.js
+node_modules/
+Frontend/.next/
+Frontend/out/
+Frontend/build/
+Frontend/.vercel/
+*.tsbuildinfo
+
+# Coverage and test output
+.coverage
+coverage/
+htmlcov/
+
+# Logs and local output
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Generated repository digests
+digest.txt
+custom_digest.txt
+custom_diget.txt
+Frontend/custom_digest.txt
+Frontend/custom_diget.txt
+
+# Local editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Certificates and private keys
+*.pem
+*.key
+*.crt
