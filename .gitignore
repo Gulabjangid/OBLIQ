@@ -3,6 +3,10 @@
 .env.*
 !.env.example
 
+# Frontend (deployed separately on Vercel)
+Frontend/
+
+
 # Markdown and generated project notes
 *.md
 !/README.md

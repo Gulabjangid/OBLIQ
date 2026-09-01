@@ -1,0 +1,16 @@
+# Render Blueprint – deploys the FastAPI backend as a Web Service
+# https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: obliq-api
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false  # Set manually in Render dashboard
+      - key: GEMINI_MODEL
+        value: gemini-3.6-flash
+      - key: PYTHON_VERSION
+        value: "3.12"
